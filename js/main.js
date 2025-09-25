@@ -39,7 +39,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   'de mis deseos de verte feliz,',
   'y de mis sueños de construir contigo una vida',
   'llena de sonrisas, abrazos y momentos inolvidables. 💫',
-  'Con todo mi amor, de tu enamorado que no deja de pensarte 👷❤️',
+  'Con todo mi amor, de tu enamorado que no deja de pensarte 👷❤️'
 ];
   
   var wrapper = document.querySelector('.wrapper');
@@ -264,6 +264,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
 
 
 
