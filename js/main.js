@@ -33,13 +33,13 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   'el brillo que ilumina mis días',
   'y la calma que abraza mi corazón. 💕',
   'Quiero recordarte lo especial que eres,❤️',
-  'lo afortunado que me siento de tenerte,'
-  'y que en mi corazón siempre habrá un lugar eterno solo para ti. ✨'
-  'Esta flor es símbolo de mi amor,'
-  'de mis deseos de verte feliz,'
-  'y de mis sueños de construir contigo una vida'
-  'llena de sonrisas, abrazos y momentos inolvidables. 💫'
-  'Con todo mi amor, de tu enamorado que no deja de pensarte 👷❤️'
+  'lo afortunado que me siento de tenerte,',
+  'y que en mi corazón siempre habrá un lugar eterno solo para ti. ✨',
+  'Esta flor es símbolo de mi amor,',
+  'de mis deseos de verte feliz,',
+  'y de mis sueños de construir contigo una vida',
+  'llena de sonrisas, abrazos y momentos inolvidables. 💫',
+  'Con todo mi amor, de tu enamorado que no deja de pensarte 👷❤️',
 ];
   
   var wrapper = document.querySelector('.wrapper');
@@ -264,5 +264,6 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
 
 
