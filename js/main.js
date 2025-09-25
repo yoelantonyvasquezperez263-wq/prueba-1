@@ -22,18 +22,24 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   
   // Followers - Cambiar mensajes
   const messages = [
-  'Mensaje dedicado para mi amor, Jimena ❤️' ,
-  'Hoy quiero regalarte estas flores ,\nporque eres la razón de mi alegría,',
-  'y el brillo más hermoso en mi vida. 🌹✨',
-  'Cada pétalo lleva un pedacito de mi cariño,',
-  'de mi admiración y de lo mucho que te amo. 💕',
-  'Quiero recordarte lo especial que eres,',
-'lo afortunado que me siento de tenerte,',
-  'y que en mi corazón siempre hay un lugar solo para ti. 🌹💫',
-  'Estas flores son un reflejo de mi amor,',
-  'y de todo lo que deseo para ti: felicidad, éxito',
-  'y días llenos de sonrisas y abrazos compartidos. ✨❤️',
-  'Atentamente: el hombre que te ama y piensa en ti cada día 👷'
+  'Para la flor más hermosa de mi vida, Jimena 🌹✨' ,
+  'Hoy quiero regalarte esta flor,',
+  'no porque pueda compararse contigo,',
+  'sino porque en su sencillez me recuerda a la ternura',
+  'y a la belleza que llevas en tu alma. ❤️',
+  'Cada pétalo guarda un pedacito de mi cariño,',
+'de mi admiración y de todo lo que siento por ti.',
+  'Eres la razón de mi alegría,',
+  'el brillo que ilumina mis días',
+  'y la calma que abraza mi corazón. 💕',
+  'Quiero recordarte lo especial que eres,❤️',
+  'lo afortunado que me siento de tenerte,'
+  'y que en mi corazón siempre habrá un lugar eterno solo para ti. ✨'
+  'Esta flor es símbolo de mi amor,'
+  'de mis deseos de verte feliz,'
+  'y de mis sueños de construir contigo una vida'
+  'llena de sonrisas, abrazos y momentos inolvidables. 💫'
+  'Con todo mi amor, de tu enamorado que no deja de pensarte 👷❤️'
 ];
   
   var wrapper = document.querySelector('.wrapper');
@@ -258,4 +264,5 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
 
